@@ -237,34 +237,34 @@
     "categories": [],
     "waf": [
         {
-            "name": "reliability"
-        },
-        {
-            "name": "Cost"
-        },
-        {
-            "name": "Operations"
-        },
-        {
-            "name": "security"
-        },
-        {
             "name": "Performance"
-        },
-        {
-            "name": "Reliability"
         },
         {
             "name": "operations"
         },
         {
-            "name": "Security"
+            "name": "Operations"
+        },
+        {
+            "name": "cost"
+        },
+        {
+            "name": "security"
         },
         {
             "name": "performance"
         },
         {
-            "name": "cost"
+            "name": "reliability"
+        },
+        {
+            "name": "Reliability"
+        },
+        {
+            "name": "Cost"
+        },
+        {
+            "name": "Security"
         }
     ],
     "yesno": [
@@ -301,6 +301,6 @@
         "name": "Azure Files Service Guide",
         "waf": "all",
         "state": "preview",
-        "timestamp": "October 20, 2024"
+        "timestamp": "January 26, 2025"
     }
 }
